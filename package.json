@@ -1,5 +1,5 @@
 {
-  "name": "@tencent/babel-plugin-try-catch-wrapper",
+  "name": "babel-plugin-try-catch-wrapper",
   "version": "0.1.1",
   "description": "wrap all code in try-catch for reporting js runtime error",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
     "prepublish": "babel src -d lib",
     "dev": "babel src -d lib -w"
   },
-  "author": "kellanzhang@tencent.com",
+  "author": "syszhpe@gmail.com",
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.4.5",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://git.code.oa.com/MTT/babel-plugin-try-catch-wrapper"
+    "url": "https://github.com/foio/babel-plugin-try-catch-wrapper"
   },
   "keywords": [
     "report error",

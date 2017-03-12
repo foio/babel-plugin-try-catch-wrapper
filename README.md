@@ -1,4 +1,4 @@
-A babel transform plugin that wrap your function with try catch.
+A babel transform plugin that wrap all functions in your code with try catch.
 
 ##test
 
