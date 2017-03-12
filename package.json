@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-try-catch-wrapper",
+  "name": "babel-plugin-try-catch",
   "version": "0.1.1",
   "description": "wrap all code in try-catch for reporting js runtime error",
   "main": "lib/index.js",
